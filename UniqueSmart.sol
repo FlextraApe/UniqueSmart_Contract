@@ -30,7 +30,7 @@ library SafeMathInt {
 
         return a / b;
     }
-
+ 
     function sub(int256 a, int256 b) internal pure returns (int256) {
         int256 c = a - b;
         require((b >= 0 && c <= a) || (b < 0 && c > a));
