@@ -10,7 +10,7 @@
 */
 
 // SMART PROTOCOL COPYRIGHT (C) 2022 
-
+ 
 pragma solidity ^0.8.0;
 
 /**
